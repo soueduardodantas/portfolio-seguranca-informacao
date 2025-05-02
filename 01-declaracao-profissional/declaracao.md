@@ -60,8 +60,8 @@ Meu objetivo é atuar de forma estratégica e técnica na área de Segurança da
 
 ## 📫 Contato
 
-- **Email:** edudantas7@gmail.com  
-- **Telefone:** (19) 99808-8392  
+- **Email:** [edudantas7@gmail.com](mailto:soueduardodantas@gmail.com)
+- **Telefone:** [(19) 99808-8392](https://wa.me/5519998088392)
 - **LinkedIn:** [soueduardodantas](https://www.linkedin.com/in/soueduardodantas/)  
 - **GitHub:** [soueduardodantas](https://github.com/soueduardodantas)
 
