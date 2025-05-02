@@ -7,15 +7,15 @@ Este repositório contém projetos e atividades práticas desenvolvidas no campo
 
 | Projeto | Descrição | Status |
 |:---|:---|:---|
-| 📄 Declaração Profissional | Resumo profissional em Segurança da Informação. | ✔️ |
-| 🔍 Auditoria de Segurança | Relatório de auditoria de ambiente de TI. | ✔️ |
-| 🌐 Análise de Rede | Análise de estrutura e riscos de rede. | ✔️ |
-| 🐧 Comandos Linux | Gerenciamento de permissões e usuários. | ✔️ |
-| 🛡️ Consultas SQL | Aplicação de filtros para segurança de dados. | ✔️ |
-| 🔥 Análise de Vulnerabilidades | Identificação de vulnerabilidades críticas. | ✔️ |
-| 📓 Diário de Incidentes | Documentação de resposta a incidentes. | ✔️ |
-| 📈 Análise de Arquivo Texto | Investigação de logs de segurança. | ✔️ |
-| 📃 Currículo Profissional | Versão atualizada do meu currículo. | ✔️ |
+| 📄 DeclaraçãoProfissional | Resumo profissional em Segurança da Informação. | ✔️ |
+| 🔍 AuditoriaDeSegurança | Relatório de auditoria de ambiente de TI. | ✔️ |
+| 🌐 AnaliseDeRede | Análise de estrutura e riscos de rede. | ✔️ |
+| 🐧 ComandosLinux | Gerenciamento de permissões e usuários. | ✔️ |
+| 🛡️ ConsultaSQL | Aplicação de filtros para segurança de dados. | ✔️ |
+| 🔥 AnaliseDeVulnerabilidades | Identificação de vulnerabilidades críticas. | ✔️ |
+| 📓 DiarioDeIncidentes | Documentação de resposta a incidentes. | ✔️ |
+| 📈 AnaliseDeArquivoTexto | Investigação de logs de segurança. | ✔️ |
+| 📃 CurrículoProfissional | Versão atualizada do meu currículo. | ✔️ |
 
 ---
 
